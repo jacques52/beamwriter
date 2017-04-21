@@ -1,0 +1,5 @@
+c:\users\perrajac\documents\visual studio 2015\Projects\beam writer\MyProject3\obj\Debug32\beam_writer.csprojResolveAssemblyReference.cache
+c:\users\perrajac\documents\visual studio 2015\Projects\beam writer\MyProject3\bin\beam_writer.dll
+c:\users\perrajac\documents\visual studio 2015\Projects\beam writer\MyProject3\bin\beam_writer.pdb
+c:\users\perrajac\documents\visual studio 2015\Projects\beam writer\MyProject3\obj\Debug32\beam_writer.dll
+c:\users\perrajac\documents\visual studio 2015\Projects\beam writer\MyProject3\obj\Debug32\beam_writer.pdb
